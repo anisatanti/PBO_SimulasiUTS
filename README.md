@@ -1,6 +1,6 @@
 # **SIMULASI UTS PBO SOAL NOMOR 6**
 ___
-## **Berikut Langkah-langkah membuat Crud dengan Java Swing untuk entitas Buku dengan atribut: ISBN, Judul Buku, Tahun Terbit.**
+## **Berikut Langkah-langkah membuat CRUD dengan Java Swing untuk entitas Buku dengan atribut: ISBN, Judul Buku, Tahun Terbit.**
 **1. Buat project baru** dengan nama SimulasiUTSPBO_Buku pada Netbeans namun unchecklist pada Create Main Class kemudian klik Finish.
 
 ![Screenshot 2024-10-01 142035](https://github.com/user-attachments/assets/cc5bc36a-15d4-4d3f-8127-2237ff02f0d8)
